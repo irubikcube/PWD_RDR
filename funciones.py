@@ -5,8 +5,9 @@ def leer_contraseñas(nombre_archivo):
             contraseñas = [linea.strip() for linea in archivo.readlines()]
         return contraseñas
     except FileNotFoundError:
-        print("El archivo no fue encontrado. Asegúrate de que 'rockyou-50.txt' esté en la misma carpeta del script.")
+        print("El archivo no fue encontrado. Asegúrate de que 'rockyou-50.txt' esté en la misma carpeta de la app.")
         return []
+
 
 def menu(contraseñas):
     while True:
