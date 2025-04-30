@@ -11,18 +11,18 @@ def leer_contraseñas(nombre_archivo):
 def menu(contraseñas):
     while True:
         print("\n--- MENÚ ---")
-        print("1. Verificar contraseña")
-        print("2. Salir")
-        opcion = input("Selecciona una opción: ")
+        print("1. Verificar mi Password")
+        print("2. Sacame de aquí")
+        opcion = input("Que quieres hacer?")
 
         if opcion == '1':
-            password = input("Ingresa tu contraseña: ")
+            password = input("Pon tu contraseña: ")
             if password in contraseñas:
                 print("Have I Been Pwned!!!")
             else:
                 print("lerolerolero!!!!")
         elif opcion == '2':
-            print("¡Hasta luego!")
+            print("¡Gracias por usar PWD_RDR, hasta luego!")
             break
         else:
-            print("Opción inválida. Intenta de nuevo.")
+            print("Nop, Intenta de nuevo.")
