@@ -1,6 +1,8 @@
 # PWD_RDR
 ##Aplicacion simple para saber si tu pass esta comprometida o no##
 
+Visitanos en nuestro repositorio oficial https://github.com/irubikcube/PWD_RDR
+
 Gracias por descargar nuestro password reader. Agradecemos sinceramente que haya elegido nuestra aplicación para sus necesidades. Este manual ha sido creado para guiarte y de esta manera aprovechar el máximo de las funcionalidades que posee nuetros lector de contraeñas. Desde ya, esperamos que esta aplicación sea de gran utilidad garatizar tu seguridad informatica. Desde ya, como equipo #IRCSOFT#, estamos agradecidos con tu preferencia. 
 
 1. Descripción General
